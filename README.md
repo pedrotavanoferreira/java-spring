@@ -7,6 +7,6 @@
 
 # UML - Diagrama de Sequência
 ## Geração via plugin do IntelliJ IDEA - [Sequence Diagram](https://plugins.jetbrains.com/plugin/8286-sequencediagram)
-![UML - Diagrama de Sequência Simples](https://github.com/pedrotavanoferreira/spring-message/blob/master/img/simpleSequenceDiagram.png)
+![UML - Diagrama de Sequência Simples](https://github.com/pedrotavanoferreira/java-spring/blob/master/img/simpleSequenceDiagram.png)
 
 ## Analista de Sistemas - Pedro T. Ferreira
